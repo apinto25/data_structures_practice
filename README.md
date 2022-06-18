@@ -1,2 +1,1 @@
-# data_structures_practice
-Linear Data Structures Practice
+# Linear Data Structures Practice
